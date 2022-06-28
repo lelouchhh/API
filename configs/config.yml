@@ -1,0 +1,8 @@
+port: "8080"
+
+db:
+  username: "slave"
+  host: "80.78.254.56"
+  port: "5432"
+  dbname: "dungeon"
+  sslmode: "disable"
